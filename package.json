@@ -1,0 +1,9 @@
+{
+  "name": "@walrusnetwork/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration used across all our TypeScript applications",
+  "main": "index.json",
+  "repository": "git@github.com:WalrusNetwork/prettier-config.git",
+  "author": "Indicado <indicado@walrus.gg>",
+  "license": "MIT"
+}
